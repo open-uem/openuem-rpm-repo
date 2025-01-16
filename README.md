@@ -1,4 +1,4 @@
-# OpenUEM Debian/Ubuntu repository
+# OpenUEM RPM repository
 
 Repository containing the GPG public key and instructions to add the RPM repository
 
